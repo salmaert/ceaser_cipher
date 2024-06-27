@@ -1,1 +1,2 @@
 # ceaser_cipher
+This project implements a Caesar cipher that encrypts a text by shifting each letter by a certain number of positions in the alphabet, preserving the case of the letters and leaving non-alphabetical characters unchanged. The user inputs the text to be encrypted and a shift value between 1 and 25. The program ensures the shift value is valid and applies the shift to each letter of the text, adjusting for alphabet boundaries.
